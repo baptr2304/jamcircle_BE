@@ -1,0 +1,17 @@
+[
+    {   "ten_nguoi_dung": "Người dùng 001",
+        "email": "nguoi_dung001@jamcircle.com",
+        "mat_khau": "NguoiDung001",
+        "quyen": "quan_tri_vien",
+        "anh_dai_dien": "https://i.imgur.com/1eIv3.jpg",
+        "trang_thai": "hoat_dong"
+    },
+    {
+        "ten_nguoi_dung": "Người dùng 002",
+        "email": "nguoi_dung002@jamcircle.com",
+        "mat_khau": "NguoiDung002",
+        "quyen": "nguoi_dung",
+        "anh_dai_dien": "https://i.imgur.com/1eIv3.jpg",
+        "trang_thai": "hoat_dong"
+    }
+]

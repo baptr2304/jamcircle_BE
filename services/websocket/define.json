@@ -1,0 +1,79 @@
+[
+{
+    "type": "danh_sach_phat",
+    "action": "them_bai_hat",
+    "data": {
+        "thanh_vien_phong_id": "70f117c4-8c1f-40c4-9825-3c22e5cfb6bc",
+        "bai_hat_id": "6de7a817-3c3a-4d36-a7b9-39e76f46c2be"
+    }
+},
+{
+    "type": "danh_sach_phat",
+    "action": "xoa_bai_hat",
+    "data": {
+        "thanh_vien_phong_id": "70f117c4-8c1f-40c4-9825-3c22e5cfb6bc",
+        "so_thu_tu": "5"
+    }
+},
+{
+    "type": "danh_sach_phat",
+    "action": "cap_nhat_so_thu_tu",
+    "data": {
+        "thanh_vien_phong_id": "70f117c4-8c1f-40c4-9825-3c22e5cfb6bc",
+        "bai_hat_id": "",
+        "so_thu_tu_cu": 2,
+        "so_thu_tu_moi": 3
+    }
+},
+{
+    "type": "trang_thai_phat",
+    "action": "phat_bai_hat",
+    "data": {
+        "thanh_vien_phong_id": "70f117c4-8c1f-40c4-9825-3c22e5cfb6bc",
+        "trang_thai_phat": "DangPhat",
+        "bai_hat_id": "7ce61ec5-929f-48df-acb5-5be6803378cd",
+        "so_thu_tu": 1,
+        "thoi_gian_bat_dau": 0
+    }
+},
+{
+    "type": "trang_thai_phat",
+    "action": "dung_phat",
+    "data": {
+        "thanh_vien_phong_id": "70f117c4-8c1f-40c4-9825-3c22e5cfb6bc",
+        "trang_thai_phat": "DangPhat",
+        "bai_hat_id": "7ce61ec5-929f-48df-acb5-5be6803378cd",
+        "so_thu_tu": 1,
+        "thoi_gian_ket_thuc": 20
+    }
+},
+{
+    "type": "tin_nhan",
+    "action": "gui_tin_nhan",
+    "data": {
+        "thanh_vien_phong_id": "70f117c4-8c1f-40c4-9825-3c22e5cfb6bc",
+        "noi_dung": "heheh",
+        "tin_nhan_tra_loi_id": null
+    }
+},
+{
+    "type": "roi_phong",
+    "action": "roi_phong"
+},
+{
+    "type": "xoa_thanh_vien_phong",
+    "action": "xoa_thanh_vien_phong",
+    "data": {
+        "thanh_vien_phong_id": "4e465a55-756b-417f-944c-2c11f671542e"
+    }
+},
+{
+    "type": "yeu_cau_tham_gia_phong",
+    "action": "xu_ly_yeu_cau_tham_gia_phong",
+    "data": {
+        "yeu_cau_tham_gia_phong_id": "9248b915-c82b-40aa-9b0f-a5b5d7f19776",
+        "trang_thai": "chap_nhan"
+    }
+}
+]
+  

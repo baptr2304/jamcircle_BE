@@ -1,0 +1,6 @@
+from models.yeu_cau_tham_gia_phong import YeuCauThamGiaPhong
+from schemas.yeu_cau_tham_gia_phong import YeuCauThamGiaPhongCreate, YeuCauThamGiaPhongUpdateDB
+from services.crud.base import CRUDBase
+
+CRUDYeuCauThamGiaPhong = CRUDBase[YeuCauThamGiaPhong, YeuCauThamGiaPhongCreate, YeuCauThamGiaPhongUpdateDB]
+crud_yeu_cau_tham_gia_phong = CRUDYeuCauThamGiaPhong(YeuCauThamGiaPhong)
