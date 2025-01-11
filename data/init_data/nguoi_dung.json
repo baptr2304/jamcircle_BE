@@ -13,5 +13,13 @@
         "quyen": "nguoi_dung",
         "anh_dai_dien": "https://i.imgur.com/1eIv3.jpg",
         "trang_thai": "hoat_dong"
+    },
+    {
+        "ten_nguoi_dung": "Người dùng 003",
+        "email": "nguoi_dung003@jamcircle.com",
+        "mat_khau": "NguoiDung003",
+        "quyen": "nguoi_dung",
+        "anh_dai_dien": "https://i.imgur.com/1eIv3.jpg",
+        "trang_thai": "hoat_dong"
     }
 ]
